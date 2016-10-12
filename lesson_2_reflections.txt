@@ -1,0 +1,4 @@
+What happens when you inititalize a repository? Why do you need to it?
+
+A hidden folder called .git is created in the directory you initialized.  You need this folder because it contains git's internal structure which it uses to track your commits and history.
+
