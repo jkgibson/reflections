@@ -2,3 +2,11 @@ What happens when you inititalize a repository? Why do you need to it?
 
 A hidden folder called .git is created in the directory you initialized.  You need this folder because it contains git's internal structure which it uses to track your commits and history.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working area is not in the repository, so there is no tracking of the files done by git.  The staging area allows you to start tracking files via commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Each file in the stagin area can represent the logical change.
+
