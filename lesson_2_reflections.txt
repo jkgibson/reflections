@@ -17,3 +17,7 @@ Branches help if you want to experiment with new features, or maybe try architec
 How do diagrams help you visualize the branch structure?
 
 They can aid you in seeing the relationships between commits and the branch they are in.  Then you can see what branches are reachable and which arent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Code changes between each branch are interleaved between each other.  When the branches are merged, a new commit is made, and it's parent commits are the tips of it's parent branches.
