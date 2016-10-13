@@ -21,3 +21,7 @@ They can aid you in seeing the relationships between commits and the branch they
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Code changes between each branch are interleaved between each other.  When the branches are merged, a new commit is made, and it's parent commits are the tips of it's parent branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging saves time and effort by showing the exact differences in the pieces of code, allowing you to compare the code to see which one should be implemented.
