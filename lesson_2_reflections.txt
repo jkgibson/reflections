@@ -10,4 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Each file in the stagin area can represent the logical change.
 
-Test.
+What are some situations where branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help if you want to experiment with new features, or maybe try architecting things differently than you had before.  This allows you evaluate it without making changes to your master, so that you can continue to develop master.
