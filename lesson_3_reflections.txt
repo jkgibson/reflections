@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 
 A remote repository is ideal if you want other people to collaborate with you on your project.  Also, it is good to sync your project
 with the cloud so that all of your work can be backed up.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with you remote repository?
+
+There may be things on the remote repository that you don't want synced to your local account.
